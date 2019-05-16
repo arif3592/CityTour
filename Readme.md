@@ -1,1 +1,0 @@
-This is a reactjs Project.This project data use localy.Citytour project create for practice.
